@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>942644392160-0l8q0rr9b9pbbl1kinqv59va2tm2uicr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.942644392160-0l8q0rr9b9pbbl1kinqv59va2tm2uicr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>942644392160-e257tljkti4igd8u53j8qvgfc4157dmf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAXTk0HYbmms_LmWCdf8XDYnCvtSVvU9js</string>
+	<key>GCM_SENDER_ID</key>
+	<string>942644392160</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.studymatchglobal.wizard.smg</string>
+	<key>PROJECT_ID</key>
+	<string>innova-smg</string>
+	<key>STORAGE_BUCKET</key>
+	<string>innova-smg.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:942644392160:ios:de834ca7c90db49757e085</string>
+</dict>
+</plist>

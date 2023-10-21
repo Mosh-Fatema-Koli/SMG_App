@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "942644392160",
+    "project_id": "innova-smg",
+    "storage_bucket": "innova-smg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942644392160:android:f3508e5c9b71a12557e085",
+        "android_client_info": {
+          "package_name": "com.studymatchglobal.wizard.smg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942644392160-aihbee4pe4ti0ve7ph0m1c8lfqm3tgjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVdramTSe1wWnYPXmTo1Luityik_jGI1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942644392160-aihbee4pe4ti0ve7ph0m1c8lfqm3tgjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942644392160-0l8q0rr9b9pbbl1kinqv59va2tm2uicr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.studymatchglobal.wizard.smg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
